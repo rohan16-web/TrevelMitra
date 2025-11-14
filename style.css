@@ -14,7 +14,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background-image: url(/images/h.avif);
+    background-image: url(images/h.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -282,4 +282,5 @@ footer p {
         margin: 10px 0;
 
     }
+
 }
